@@ -8,10 +8,9 @@ Este diretório contém os resultados brutos das execuções dos experimentos de
 
 | Arquivo | Status | Observação |
 |---|---|---|
-| `resultados_rodada_1.csv` | ⚠️ Descartado | Coletado com versão anterior do código |
+| `resultados_rodada_1.csv` | ✅ Válido | |
 | `resultados_rodada_2.csv` | ✅ Válido | |
 | `resultados_rodada_3.csv` | ✅ Válido | |
-| `resultados_rodada_4.csv` | ✅ Válido | Re-execução corretiva |
 
 As médias publicadas no artigo foram calculadas **apenas sobre as rodadas 2, 3 e 4**.
 
