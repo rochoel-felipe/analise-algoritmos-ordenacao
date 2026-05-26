@@ -25,10 +25,9 @@ analise-algoritmos-ordenacao/
 │   └── analise_algoritmos.c      # Implementação dos três algoritmos em C
 ├── data/
 │   ├── README.md                 # Descrição das colunas e dos cenários
-│   ├── resultados_rodada_1.csv   # Rodada 1 (descartada — versão anterior do código)
+│   ├── resultados_rodada_1.csv   # Rodada 1 (válida)
 │   ├── resultados_rodada_2.csv   # Rodada 2 (válida)
-│   ├── resultados_rodada_3.csv   # Rodada 3 (válida)
-│   └── resultados_rodada_4.csv   # Rodada 4 (válida) — re-execução corretiva
+│   └── resultados_rodada_3.csv   # Rodada 3 (válida) 
 ├── docs/
 │   ├── artigo.pdf                # Artigo completo compilado
 │   └── artigo.tex                # Código-fonte LaTeX do artigo
